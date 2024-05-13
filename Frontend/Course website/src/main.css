@@ -1,0 +1,17 @@
+/*-----create all the variable here and write all the properties that will be used globally*/
+*{
+    --primary-color:#FE0020;
+    --primary-color-2:#C92728;
+    --bg-color:#F8F8FE;
+    --bg-color-2:#F5F5F5;
+    --white:#FFFFFF;
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: var(--bg-color);
+    font-family:sans-serif;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
