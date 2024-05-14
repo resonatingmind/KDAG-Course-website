@@ -1,2 +1,23 @@
 @import url(../main.css);
 
+.footerContainer{
+}
+
+.footer{
+    width:100vw;
+    min-height: 40vh;
+    background-color: var(--bg-color);
+    box-shadow: 0px 2px 20px rgba(0,0,0,0.1);
+}
+
+.fCredit{
+    font-size: 14px;
+    text-align: center;
+    background-color: var(--bg-color);
+    color: #6B7385;
+    padding: 3px;
+}
+
+.fCredit span{
+    color: #192335;
+}
